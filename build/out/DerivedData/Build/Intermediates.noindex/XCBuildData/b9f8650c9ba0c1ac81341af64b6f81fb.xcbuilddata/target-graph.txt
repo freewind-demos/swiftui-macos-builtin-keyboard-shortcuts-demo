@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'SwiftUIBuiltinKeyboardShortcutsDemo' in project 'SwiftUIBuiltinKeyboardShortcutsDemo' (no dependencies)
